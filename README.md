@@ -7,8 +7,15 @@ Also check out [awesome-zero-shot-learning](https://github.com/chichilicious/awe
 
 ## Meta-learning
 ### Model optimzation
+* [Neural Optimizer Search with Reinforcement Learning [Bello 2017]](https://ai.googleblog.com/2018/03/using-machine-learning-to-discover.html)
 * [Optimization as a Model for Few-Shot Learning [Ravi, Larochelle 2017]](https://openreview.net/pdf?id=rJY0-Kcll)
 * [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks [Finn et al. 2017]](https://arxiv.org/pdf/1703.03400.pdf)
+
+### Evolutionary algorithms
+* [Google AutoML](https://ai.googleblog.com/2018/03/using-evolutionary-automl-to-discover.html)
+  * [Regularized Evolution for Image Classifier Architecture Search [Real et al. 2018]](https://arxiv.org/abs/1802.01548)
+  * [Large-Scale Evolution of Image Classifiers [Real et al. 2017]](https://arxiv.org/abs/1703.01041)
+
 
 ### Metric learning
 * [Learning to Compare: Relation Network for Few-Shot Learning [Sung et al. 2018]](https://arxiv.org/pdf/1711.06025.pdf)
