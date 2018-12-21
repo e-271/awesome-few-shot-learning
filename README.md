@@ -12,8 +12,9 @@ Also check out [awesome-zero-shot-learning](https://github.com/chichilicious/awe
 
 ### Metric learning
 * [Learning to Compare: Relation Network for Few-Shot Learning [Sung et al. 2018]](https://arxiv.org/pdf/1711.06025.pdf)
-* [Matching Networks for One Shot Learning [Vinyals et al. 2017]](https://arxiv.org/pdf/1606.04080.pdf)
+* [Meta-Learning for Semi-Supervised Few-Shot Classification [Triantafillou et al. 2018]](https://ai.google/research/pubs/pub46640)
 * [Prototypical Networks for Few-shot Learning [Snell et al. 2017]](https://arxiv.org/pdf/1703.05175.pdf)
+* [Matching Networks for One Shot Learning [Vinyals et al. 2017]](https://arxiv.org/pdf/1606.04080.pdf)
 * [Transfer of View-Manifold Learning to Similarity Perception of Novel Objects [Lin et al. 2017]](https://arxiv.org/pdf/1704.00033.pdf)
 
 ### Data augmentation
