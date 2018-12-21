@@ -25,4 +25,4 @@ Also check out [awesome-zero-shot-learning](https://github.com/chichilicious/awe
 * [Few-Shot Learning with Graph Neural Networks [Garcia & Bruna 2018]](https://arxiv.org/pdf/1711.04043.pdf)
 * [Dynamic Few-Shot Visual Learning without Forgetting [Gidaris & Komodakis 2018]](https://arxiv.org/pdf/1804.09458.pdf)
 * [Low-Shot Learning with Imprinted Weights [Qi et al. 2018]](https://arxiv.org/pdf/1712.07136.pdf)
-* [Few-Shot Image Recognition by Predicting Parameters from Activations [Qiao et al. 2017]] (https://arxiv.org/pdf/1706.03466.pdf)
+* [Few-Shot Image Recognition by Predicting Parameters from Activations [Qiao et al. 2017]](https://arxiv.org/pdf/1706.03466.pdf)
