@@ -23,6 +23,7 @@ Also check out [awesome-zero-shot-learning](https://github.com/chichilicious/awe
 * [Prototypical Networks for Few-shot Learning [Snell et al. 2017]](https://arxiv.org/pdf/1703.05175.pdf)
 * [Matching Networks for One Shot Learning [Vinyals et al. 2017]](https://arxiv.org/pdf/1606.04080.pdf)
 * [Transfer of View-Manifold Learning to Similarity Perception of Novel Objects [Lin et al. 2017]](https://arxiv.org/pdf/1704.00033.pdf)
+* [Siamese Neural Networks for One-shot Image Recognition [Koch et al. 2015](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)
 
 ### Data augmentation
 * [Data Augmentation Generative Adversarial Networks [Antoniou et al. 2018]](https://arxiv.org/pdf/1711.04340.pdf)
