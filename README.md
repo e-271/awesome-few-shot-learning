@@ -7,6 +7,7 @@ Also check out [awesome-zero-shot-learning](https://github.com/chichilicious/awe
 
 ## Meta-learning
 ### Model optimzation
+* [A Simple Neural Attentive Meta-Learner [Mishra et al. 2018]](https://arxiv.org/pdf/1707.03141.pdf)
 * [Neural Optimizer Search with Reinforcement Learning [Bello 2017]](https://ai.googleblog.com/2018/03/using-machine-learning-to-discover.html)
 * [Optimization as a Model for Few-Shot Learning [Ravi, Larochelle 2017]](https://openreview.net/pdf?id=rJY0-Kcll)
 * [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks [Finn et al. 2017]](https://arxiv.org/pdf/1703.03400.pdf)
