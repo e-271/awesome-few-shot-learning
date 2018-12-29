@@ -37,3 +37,5 @@ Also check out [awesome-zero-shot-learning](https://github.com/chichilicious/awe
 * [Dynamic Few-Shot Visual Learning without Forgetting [Gidaris & Komodakis 2018]](https://arxiv.org/pdf/1804.09458.pdf)
 * [Low-Shot Learning with Imprinted Weights [Qi et al. 2018]](https://arxiv.org/pdf/1712.07136.pdf)
 * [Few-Shot Image Recognition by Predicting Parameters from Activations [Qiao et al. 2017]](https://arxiv.org/pdf/1706.03466.pdf)
+* [SMASH: One-Shot Model Architecture Search through HyperNetworks [Brock et al. 2017]](https://arxiv.org/pdf/1708.05344.pdf)
+
