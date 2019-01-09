@@ -25,6 +25,7 @@ Also check out [awesome-zero-shot-learning](https://github.com/chichilicious/awe
 * [Prototypical Networks for Few-shot Learning [Snell et al. 2017]](https://arxiv.org/pdf/1703.05175.pdf)
 * [Matching Networks for One Shot Learning [Vinyals et al. 2017]](https://arxiv.org/pdf/1606.04080.pdf)
 * [Transfer of View-Manifold Learning to Similarity Perception of Novel Objects [Lin et al. 2017]](https://arxiv.org/pdf/1704.00033.pdf)
+* [Generative Adversarial Residual Pairwise Networks for One Shot Learning [Mehrota & Dukkipatti 2017]]
 * [Siamese Neural Networks for One-shot Image Recognition [Koch et al. 2015]](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)
 
 ### Data augmentation
@@ -40,5 +41,6 @@ Also check out [awesome-zero-shot-learning](https://github.com/chichilicious/awe
 * [SMASH: One-Shot Model Architecture Search through HyperNetworks [Brock et al. 2017]](https://arxiv.org/pdf/1708.05344.pdf)
 * [Active One-shot Learning [Woodward et al. 2017]](https://arxiv.org/pdf/1702.06559.pdf)
 * [Towarads a Neural Statistician [Edwards & Storkey 2017]](https://arxiv.org/pdf/1606.02185.pdf)
+(https://arxiv.org/pdf/1703.08033.pdf)
 * [One-shot Learning with Memory-Augmented Neural Networks [Santoro 2016]](https://arxiv.org/pdf/1605.06065.pdf)
 
