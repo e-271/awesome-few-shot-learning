@@ -40,4 +40,5 @@ Also check out [awesome-zero-shot-learning](https://github.com/chichilicious/awe
 * [SMASH: One-Shot Model Architecture Search through HyperNetworks [Brock et al. 2017]](https://arxiv.org/pdf/1708.05344.pdf)
 * [Active One-shot Learning [Woodward et al. 2017]](https://arxiv.org/pdf/1702.06559.pdf)
 * [Towarads a Neural Statistician [Edwards & Storkey 2017]](https://arxiv.org/pdf/1606.02185.pdf)
+* [One-shot Learning with Memory-Augmented Neural Networks [Santoro 2016]](https://arxiv.org/pdf/1605.06065.pdf)
 
