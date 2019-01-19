@@ -29,8 +29,8 @@ Also check out [awesome-zero-shot-learning](https://github.com/chichilicious/awe
 
 ### Attention mechanism
 * [Dynamic Few-Shot Visual Learning without Forgetting [Gidaris & Komodakis 2018]](https://arxiv.org/pdf/1804.09458.pdf)
-* [One-shot Learning with Memory-Augmented Neural Networks [Santoro 2016]](https://arxiv.org/pdf/1605.06065.pdf)
 * [Meta Networks [Munkhdalai & Yu 2017]](https://arxiv.org/pdf/1703.00837.pdf)
+* [One-shot Learning with Memory-Augmented Neural Networks [Santoro 2016]](https://arxiv.org/pdf/1605.06065.pdf)
 
 ## Other approaches
 * [Few-Shot Learning with Graph Neural Networks [Garcia & Bruna 2018]](https://arxiv.org/pdf/1711.04043.pdf)
