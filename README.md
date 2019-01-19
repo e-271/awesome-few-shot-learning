@@ -13,12 +13,6 @@ Also check out [awesome-zero-shot-learning](https://github.com/chichilicious/awe
 * [Optimization as a Model for Few-Shot Learning [Ravi, Larochelle 2017]](https://openreview.net/pdf?id=rJY0-Kcll)
 * [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks [Finn et al. 2017]](https://arxiv.org/pdf/1703.03400.pdf)
 
-### Evolutionary algorithms
-* [Google AutoML](https://ai.googleblog.com/2018/03/using-evolutionary-automl-to-discover.html)
-  * [Regularized Evolution for Image Classifier Architecture Search [Real et al. 2018]](https://arxiv.org/abs/1802.01548)
-  * [Large-Scale Evolution of Image Classifiers [Real et al. 2017]](https://arxiv.org/abs/1703.01041)
-
-
 ### Metric learning
 * [Learning to Compare: Relation Network for Few-Shot Learning [Sung et al. 2018]](https://arxiv.org/pdf/1711.06025.pdf)
 * [Meta-Learning for Semi-Supervised Few-Shot Classification [Triantafillou et al. 2018]](https://ai.google/research/pubs/pub46640)
@@ -33,14 +27,15 @@ Also check out [awesome-zero-shot-learning](https://github.com/chichilicious/awe
 * [Low-Shot Learning from Imaginary Data [Wang et al. 2018]](https://arxiv.org/pdf/1801.05401.pdf)
 * [Low-shot Visual Recognition by Shrinking and Hallucinating Features [Hariharan, Girshick 2017]](https://arxiv.org/pdf/1606.02819.pdf)
 
+### Attention mechanism
+* [Dynamic Few-Shot Visual Learning without Forgetting [Gidaris & Komodakis 2018]](https://arxiv.org/pdf/1804.09458.pdf)
+* [One-shot Learning with Memory-Augmented Neural Networks [Santoro 2016]](https://arxiv.org/pdf/1605.06065.pdf)
+* [Meta Networks](https://arxiv.org/pdf/1703.00837.pdf)
+
 ## Other approaches
 * [Few-Shot Learning with Graph Neural Networks [Garcia & Bruna 2018]](https://arxiv.org/pdf/1711.04043.pdf)
-* [Dynamic Few-Shot Visual Learning without Forgetting [Gidaris & Komodakis 2018]](https://arxiv.org/pdf/1804.09458.pdf)
 * [Low-Shot Learning with Imprinted Weights [Qi et al. 2018]](https://arxiv.org/pdf/1712.07136.pdf)
 * [Few-Shot Image Recognition by Predicting Parameters from Activations [Qiao et al. 2017]](https://arxiv.org/pdf/1706.03466.pdf)
-* [SMASH: One-Shot Model Architecture Search through HyperNetworks [Brock et al. 2017]](https://arxiv.org/pdf/1708.05344.pdf)
 * [Active One-shot Learning [Woodward et al. 2017]](https://arxiv.org/pdf/1702.06559.pdf)
 * [Towarads a Neural Statistician [Edwards & Storkey 2017]](https://arxiv.org/pdf/1606.02185.pdf)
-(https://arxiv.org/pdf/1703.08033.pdf)
-* [One-shot Learning with Memory-Augmented Neural Networks [Santoro 2016]](https://arxiv.org/pdf/1605.06065.pdf)
 
