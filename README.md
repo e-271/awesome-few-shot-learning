@@ -14,6 +14,7 @@ Also check out [awesome-zero-shot-learning](https://github.com/chichilicious/awe
 * [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks [Finn et al. 2017]](https://arxiv.org/pdf/1703.03400.pdf)
 
 ### Metric learning
+* [TADAM: Task dependent adaptive metric for improved few-shot learning [Oreshkin et al. 2019]](https://arxiv.org/pdf/1805.10123.pdf)
 * [Learning to Compare: Relation Network for Few-Shot Learning [Sung et al. 2018]](https://arxiv.org/pdf/1711.06025.pdf)
 * [Meta-Learning for Semi-Supervised Few-Shot Classification [Triantafillou et al. 2018]](https://ai.google/research/pubs/pub46640)
 * [Prototypical Networks for Few-shot Learning [Snell et al. 2017]](https://arxiv.org/pdf/1703.05175.pdf)
