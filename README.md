@@ -33,6 +33,7 @@ Also check out [awesome-zero-shot-learning](https://github.com/chichilicious/awe
 * [One-shot Learning with Memory-Augmented Neural Networks [Santoro 2016]](https://arxiv.org/pdf/1605.06065.pdf)
 
 ## Other approaches
+* [Adaptive Cross-Modal Few-Shot Learning [Xing et al. 2019]](https://arxiv.org/pdf/1902.07104v1.pdf)
 * [Few-Shot Learning with Graph Neural Networks [Garcia & Bruna 2018]](https://arxiv.org/pdf/1711.04043.pdf)
 * [Low-Shot Learning with Imprinted Weights [Qi et al. 2018]](https://arxiv.org/pdf/1712.07136.pdf)
 * [Few-Shot Image Recognition by Predicting Parameters from Activations [Qiao et al. 2017]](https://arxiv.org/pdf/1706.03466.pdf)
