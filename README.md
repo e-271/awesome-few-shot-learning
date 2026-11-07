@@ -40,4 +40,5 @@ Also check out [awesome-zero-shot-learning](https://github.com/chichilicious/awe
 * [Few-Shot Image Recognition by Predicting Parameters from Activations [Qiao et al. 2017]](https://arxiv.org/pdf/1706.03466.pdf)
 * [Active One-shot Learning [Woodward et al. 2017]](https://arxiv.org/pdf/1702.06559.pdf)
 * [Towarads a Neural Statistician [Edwards & Storkey 2017]](https://arxiv.org/pdf/1606.02185.pdf)
+* [AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation [Zhu et al., NeurIPS 2024]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/2d4eaf042567f1c03c086103cc154c1f-Abstract-Conference.html) [[Code]](https://github.com/MCG-NJU/AWT)
 
